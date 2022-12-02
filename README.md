@@ -5,6 +5,7 @@
 ### 介绍：
 
 GoTo是友情链接接力程序，欢迎您加入GoTo友情链接接力计划。
+
 GoTo使用MySQL存储数据，GoTo前端样式灵感来源于开往
 
 ### 友链接力：
@@ -13,9 +14,8 @@ GoTo使用MySQL存储数据，GoTo前端样式灵感来源于开往
 
 ### 提交链接：
 
-1.在孙子烧烤知识分享站中发起工单，类型选择友情链接问题，然后填写贵站的站点链接和LOGO。
-
-2.在[Github Issues](https://github.com/szsk2022/gotolink)中发起帖子，该帖子需要填写贵站的友情链接和LOGO，才能提交！
+在孙子烧烤知识分享站中发起工单，类型选择友情链接问题，然后填写贵站的站点链接和LOGO。
+提交网址：[https://www.sunzishaokao.com/提交工单](https://www.sunzishaokao.com/提交工单)
 
 ### 审核：
 
