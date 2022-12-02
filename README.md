@@ -15,6 +15,7 @@ GoTo使用MySQL存储数据，GoTo前端样式灵感来源于开往
 ### 提交链接：
 
 在孙子烧烤知识分享站中发起工单，类型选择友情链接问题，然后填写贵站的站点链接和LOGO。
+
 提交网址：[https://www.sunzishaokao.com/提交工单](https://www.sunzishaokao.com/提交工单)
 
 ### 审核：
