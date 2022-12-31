@@ -1,6 +1,6 @@
 # GoTo-友联接力
 
-![GoTologo](help/Screenshot_20221107_205939%20(1).png)
+![GoTologo](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotologo.jpg)
 
 ### 介绍：
 
@@ -38,7 +38,7 @@ PS：如果您的站点已经通过我们的审核，我们会定期检查您的
 
 2.扫码关注公众号留言。
 
-![扫码关注孙子烧烤知识分享站公众号](help/qrcode_for_gh_0c3cc3a17782_258.jpg)
+![扫码关注孙子烧烤知识分享站公众号](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotolink.jpg)
 
 3.使用手机微信打开[GoTo专属客服](https://work.weixin.qq.com/kfid/kfcccbc5c65c7b2a468)联系客服！
 
