@@ -1,3 +1,11 @@
+## GoTo-友联接力-GoTo后端
+
+![GoTologo](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotologo.jpg)
+
+# 介绍：
+
+项目后端使用Go的GIN框架进行编写，我们已经开源了核心功能！
+
 ## 部署
 
 下载适用于您目标机器操作系统、CPU架构的主程序，直接运行即可。
