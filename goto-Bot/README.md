@@ -1,4 +1,4 @@
-# GoTo-友联接力-GoTo后台
+# GoTo-友联接力-GoTo-Bot
 
 ![GoTologo](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotologo.jpg)
 
