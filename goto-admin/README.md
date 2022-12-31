@@ -9,7 +9,7 @@
 
 ![Adminlogin](https://www.sunzishaokao.com/cdn/gotolink/gitee/admin1.jpg)
 
-![Adminlink](https://www.sunzishaokao.com/cdn/gitee/admin2.jpg)
+![Adminlink](https://www.sunzishaokao.com/cdn/gotolink/gitee/admin2.jpg)
 
 ![AdminAPIconsole](https://www.sunzishaokao.com/cdn/gotolink/gitee/admin3.jpg)
 
