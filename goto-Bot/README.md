@@ -7,9 +7,9 @@
 
 本Bot是基于go-cqhttp进行制作，方便用户在QQ平台提交自己的网站链接并且方便管理员进行链接操作以及添加管理员、开启机器人调试模式等操作。。
 
-![GoTo-Bot](https://www.sunzishaokao.com/cdn/gotolink/gitee/GotoBot1.jpg)
+![GoTo-Bot](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotobot1.jpg)
 
-![GoTo-Bot](https://www.sunzishaokao.com/cdn/gotolink/gitee/GotoBot2.jpg)
+![GoTo-Bot](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotobot2.jpg)
 
 ### 快速开始（宝塔面板）：
 
