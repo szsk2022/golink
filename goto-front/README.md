@@ -1,6 +1,6 @@
 # GoTo-友联接力-GoTo前端
 
-![GoTologo](/help/Screenshot_20221107_205939%20(1).png)
+![GoTologo](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotologo.jpg)
 
 ### 介绍：
 
