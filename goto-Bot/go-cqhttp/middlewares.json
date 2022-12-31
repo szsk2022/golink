@@ -1,0 +1,24 @@
+{
+    ".or": [
+        {
+            "message_type": "private"
+        },
+        {
+            "message_type": "group",
+            "anonymous": {
+                ".eq": null
+            }
+        },
+        {
+            "post_type ":"request",
+            ".or": [
+                {
+                    "request_type": "friend"
+                },
+                {
+                    "request_type":"group"
+                }
+            ]
+        }
+    ]
+}
