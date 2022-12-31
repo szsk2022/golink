@@ -1,0 +1,13 @@
+SQL:
+  Type: Mysql
+  Address: 127.0.0.1
+  Port: 3306
+  Username: root
+  Password: 123
+  DataBaseName: test
+Web:
+  Address: 0.0.0.0:8080
+  Logs: true
+  Debug: false
+Golink:
+  Debug: true
