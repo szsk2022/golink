@@ -38,7 +38,7 @@ PS：如果您的站点已经通过我们的审核，我们会定期检查您的
 
 2.扫码关注公众号留言。
 
-![扫码关注孙子烧烤知识分享站公众号](https://www.sunzishaokao.com/cdn/gotolink/gitee/Gotolink.jpg)
+![扫码关注孙子烧烤知识分享站公众号](https://www.sunzishaokao.com/cdn/gotolink/gitee/WeChat-GZH.jpg)
 
 3.使用手机微信打开[GoTo专属客服](https://work.weixin.qq.com/kfid/kfcccbc5c65c7b2a468)联系客服！
 
