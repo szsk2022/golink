@@ -2,7 +2,7 @@
 
 ![GoTologo](static/GoTo_favicon.ico)
 
->GoTo是一款孙子烧烤知识分享站旗下的开源友联接力程序，使用随机数进行跳转网页，每一次打开GoTo网址3s后都会随机跳转到一个网址，从而达到网站助力、友联接力的效果。
+>GoTo是孙子烧烤知识分享站旗下的搜索引擎，提供简洁、无广告、安全的搜索界面，为您的隐私保驾护航~
 
 **官网:** [https://go.sunzishaokao.com](https://go.sunzishaokao.com "GoTo搜索")
 
