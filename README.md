@@ -1,4 +1,4 @@
-# GoTo-友联接力
+# GoTo搜索引擎
 
 ![GoTologo](static/GoTo_favicon.ico)
 
