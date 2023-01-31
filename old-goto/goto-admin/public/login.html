@@ -1,0 +1,87 @@
+<!-- 
+    本段代码公开拥有安全问题，所以js部分不给予公开
+    作者liangmi
+    bilibili:良米良米
+ -->
+<!DOCTYPE html>
+<html lang="zh-cn" style="height: 100%;">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoTo登录</title>
+    <style>
+        .login {
+            height: 400px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
+            width: 400px;
+            padding: 50px 50px 50px 50px;
+            border-radius: 10px;
+            text-align: center;
+            background-color: white;
+        }
+
+        .flexCenter {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        input {
+            border: none;
+            outline: none;
+            border-bottom: 1px solid black;
+            height: 17px;
+            font-size: 16px;
+            background: none;
+            text-align: left;
+            padding-top: 33px;
+            width: 100%;
+        }
+
+        button {
+            background-color: rgb(255, 221, 0);
+            height: 40px;
+            border: none;
+            width: 100%;
+            border-radius: 5px;
+            font-size: 16px;
+            position: absolute;
+            bottom: 0px;
+            cursor: pointer;
+            transition: 0.25s;
+        }
+
+        button:hover {
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.452);
+        }
+
+        .login2 {
+            position: relative;
+            height: 350px;
+        }
+    </style>
+</head>
+
+<body style="height: 100%;margin: 0;">
+    <div class="flexCenter">
+        <div class="login">
+            <div class="login2">
+                <h1>GoTo登录</h1>
+                <input type="text" id="userName" value placeholder="用户名" style="margin-top: 40px;">
+                <br>
+                <input type="password" id="passWord" value placeholder="密码" style="margin-top:8px;">
+                <div style="text-align: left;">
+                    <button id="submit">提交</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/emn178/js-sha512/build/sha512.min.js"></script>
+    <script src="./js/login.js"></script>
+</body>
+
+</html>

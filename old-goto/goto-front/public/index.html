@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-cn" style="height: 100%;">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>GoTo</title>
+  <link rel="stylesheet" href="./css/fontawesome.min.css">
+  <style>
+    .invisible {
+      display: none;
+    }
+  </style>
+</head>
+
+<body style="height: 100%;margin: 0;">
+  <div class="invisible">
+    <span id="url">{{.siteurl}}</span>
+    <span>{{.siteid}}</span><span>{{.word}}</span>
+  </div>
+
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <script>
+    // 特殊script
+    setTimeout(() => {
+      window.location.href = document.getElementById("url").innerHTML;
+    }, 3000)
+  </script>
+</body>
+
+</html>
