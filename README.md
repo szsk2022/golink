@@ -1,59 +1,12 @@
-# GoTo搜索引擎
+#哔哩哔哩GPT直播助手
+> 一个可以让您在bilibili直播中对接ChatGPT3的一个项目
 
-![GoTologo](static/GoTo_favicon.ico)
+##一、开始
+> 请确保您已经安装Python3
 
->GoTo是孙子烧烤知识分享站旗下的搜索引擎，提供简洁、无广告、安全的搜索界面，为您的隐私保驾护航~
-
-**官网:** [https://go.sunzishaokao.com](https://go.sunzishaokao.com "GoTo搜索")
-
-## 问答：  
-
-### 一、申请收录链接:  
-我们提供多种提交链接方式:  
-
->以下方式需要登陆[GoTo站长平台](https://zhanzhang.sunzishaokao.com "GoTo站长平台")
-提交站点信息或获取数据
-
-**1.自动提交（所有页面添加JS代码）:**  
-
-通过用户的访问习惯和页面访问次数自动向GoTo提交站点链接  
-
-**2.Sitemap站点地图提交:**  
-
-在网站根目录创建非索引性的sitemap文件，每天自动向GoTo提交站点链接
-
-**3.API自动提交:**
-
-通过开发等方式，每发布/更新页面都会自动提交到GoTo  
-
-**4.URL手动提交:**  
-
-需要您手动在[GoTo站长平台](https://zhanzhang.sunzishaokao.com "GoTo站长平台")中提交链接
-
-### 二、URL收录规则：
-
-1.您的站点需要正常访问（返回码为200，301，302等）。
-
-2.您的站点未被墙（非代刷站/非法站)。
-
-3.您的站点已经在[GoTo站长平台](https://zhanzhang.sunzishaokao.com "GoTo站长平台")提交网站认证等信息，我们会优先收录。
-
-4.您的站点SEO信息配置正确，则会优先收录。
-
-PS：GoTo爬虫会严格遵从robots.txt文件，您可以在此限制GoTo爬取页面，以保证限制页面不会被收录
-
-
-## 联系我们：
-
-**1.加入官方微信群:**  
-
-![wxqun](static/wxqun.png)
-
-**2.加入QQ群:**  
-
-![qqqun](static/qqqun.png)  
-
-**3.联系微信客服:**  
-
-[微信客服](https://work.weixin.qq.com/kfid/kfcccbc5c65c7b2a468)  
-![wxkf](static/wxkf.png)
+1. 请访问[OpenAI密钥](https://platform.openai.com/acc "OpenAI密钥")获取页面，新建一个Key
+2. 打开源码，找到”openai.api_key = "YOUR OPENAI KEY"“，将”YOUR OPENAI KEY“替换为您的刚刚新建的Key；注意，双引号请不要删除！
+3. 在源码中找到”room_id = YOUR ROOM ID“，”YOUR ROOM ID“替换为您的[哔哩哔哩房间号](https://link.bilibili.com/#/my-room/start-live "哔哩哔哩房间号")
+4. 在项目根目录下新建一个名为”1.txt“的一个记事本文件；注意：您每次直播结束后需要清空文件里的内容，否则已保存的弹幕信息将不会打印和提问GPT！
+5. 打开终端，安装相关库，这里就不写了。
+6. 打开终端，进入项目根目录，执行python chatgpt直播.py，即可运行！注意要配置代理！
